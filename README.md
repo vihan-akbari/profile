@@ -1,94 +1,113 @@
+🌟 Beginner C/C++ Developer Dashboard
 # 👋 Hey, I'm Jigu
 
-### 🚀 Learning C/C++ • Solving Problems • Building Logic
+### C/C++ Developer in Progress 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B;Currently+Mastering+Arrays;Building+Strong+Problem-Solving+Skills;One+Day+One+Step+Forward"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&width=900&lines=Learning+C%2B%2B;Mastering+Arrays;Building+Problem+Solving+Skills;Future+Software+Engineer"/>
+</p>
+🖥️ Developer Status
+Developer me;
 
----
+me.name = "Jigu";
+me.language = "C++";
+me.currentTopic = "Arrays";
+me.dailyGoal = "Solve Problems";
+me.status = "Learning";
+📊 GitHub Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+🔥 Coding Streak
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true)
+🎯 DSA Progress Graph
+DSA ROADMAP
 
-## 💻 About Me
+Variables        ██████████ 100%
+Loops            ██████████ 100%
+Functions        ██████████ 100%
 
-```cpp
-class Developer {
-public:
-    string name = "Jigu";
-    string language = "C++";
-    string currentTopic = "Arrays";
-    string goal = "Become a Great Software Engineer";
+Arrays           ███████░░░ 70%  ← CURRENT
 
-    void status() {
-        cout << "Learning every day!";
-    }
-};
-```
+Strings          ██░░░░░░░░ 20%
+Pointers         ░░░░░░░░░░ 0%
+Structures       ░░░░░░░░░░ 0%
+Linked Lists     ░░░░░░░░░░ 0%
+Stacks           ░░░░░░░░░░ 0%
+Queues           ░░░░░░░░░░ 0%
+Trees            ░░░░░░░░░░ 0%
+Graphs           ░░░░░░░░░░ 0%
+DP               ░░░░░░░░░░ 0%
+🗺️ Learning Tree
+C/C++
 
----
+├── Basics ✅
+│   ├── Variables ✅
+│   ├── Loops ✅
+│   ├── Functions ✅
+│
+├── Arrays 🔄
+│   ├── Traversal
+│   ├── Searching
+│   ├── Insertion
+│   ├── Deletion
+│   ├── Prefix Sum
+│   ├── Sliding Window
+│
+├── Strings
+├── Pointers
+├── Structures
+├── Linked Lists
+├── Stacks
+├── Queues
+├── Trees
+├── Graphs
+└── DP
+📚 Current Array Mission
+ARRAY MASTERY
 
-## 🎯 Current Learning Path
+✓ Array Basics
 
-```text
-✓ Variables
-✓ Data Types
-✓ Operators
-✓ Loops
-✓ Functions
+✓ Traversal
 
-► Arrays  ← Current Mission
+✓ Linear Search
 
-□ Strings
-□ Pointers
-□ Structures
-□ Linked Lists
-□ Stacks
-□ Queues
-□ Trees
-□ Graphs
-```
+□ Binary Search
 
----
+□ Prefix Sum
 
-## 📚 What I'm Working On
+□ Sliding Window
 
-* Array Traversal
-* Array Searching
-* Array Insertion
-* Array Deletion
-* Prefix Sum
-* Two Pointers
-* Sliding Window
+□ Two Pointers
 
----
+□ Kadane Algorithm
 
-## 🔥 Current Goal
+Completion:
+███████░░░░░░░░░░
+🏆 Coding Goals
+2026 GOALS
 
-```text
-Solve 100 Array Problems
+[ ] Solve 100 Array Problems
+[ ] Complete Strings
+[ ] Learn Pointers
+[ ] Learn Linked Lists
+[ ] Build 5 C++ Projects
+[ ] Reach 500 GitHub Contributions
+🐍 Contribution Snake
+![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+⚡ Terminal Footer
+$ whoami
 
-Progress:
-██████░░░░░░░░░░░░
-```
+Jigu
 
----
+$ current-focus
 
-## ⚡ GitHub Stats
+Arrays in C++
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark\&hide_border=true)
+$ mission
 
----
+Become a strong problem solver.
 
-## 🌱 Philosophy
+$ status
 
-"Small improvements every day eventually become massive results."
-
----
-
-### Current Status
-
-```bash
-$ learning --topic arrays
-
-Status      : Active
-Language    : C++
-Difficulty  : Beginner
-Consistency : Daily
-```
+Coding...
