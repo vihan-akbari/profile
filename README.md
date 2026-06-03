@@ -1,65 +1,94 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=450&color=gradient&text=JIGU%20AKBARI&fontSize=90&animation=twinkling&fontAlignY=35&desc=CODER%20•%20PROBLEM%20SOLVER%20•%20ARRAYS&descAlignY=55"/>
-2. TERMINAL BOOT SEQUENCE
-$ sudo boot developer_profile
+# 👋 Hey, I'm Jigu
 
-Loading skills...
-Loading projects...
-Loading commits...
-Loading future...
+### 🚀 Learning C/C++ • Solving Problems • Building Logic
 
-██████████████████ 100%
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B;Currently+Mastering+Arrays;Building+Strong+Problem-Solving+Skills;One+Day+One+Step+Forward"/>
 
-SYSTEM ONLINE
-3. CYBERPUNK TYPING
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=500&color=00F7FF&center=true&width=1000&lines=CODER;BUILDING+THE+FUTURE;CURRENTLY+MASTERING+ARRAYS;CONSISTENCY+OVER+TALENT"/>
-</p>
-4. MASSIVE ACTIVITY GRAPH
+---
 
-This is where most profiles fail.
+## 💻 About Me
 
-Make it the centerpiece.
+```cpp
+class Developer {
+public:
+    string name = "Jigu";
+    string language = "C++";
+    string currentTopic = "Arrays";
+    string goal = "Become a Great Software Engineer";
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&height=500)
-5. GIANT STATS WALL
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+    void status() {
+        cout << "Learning every day!";
+    }
+};
+```
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-6. ADVANCED METRICS PANEL
+---
 
-Most people don't have this.
+## 🎯 Current Learning Path
 
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=terminal)
+```text
+✓ Variables
+✓ Data Types
+✓ Operators
+✓ Loops
+✓ Functions
 
-This creates a gigantic information panel.
+► Arrays  ← Current Mission
 
-7. CONTRIBUTION SNAKE
-![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-8. CODER STATUS HUD
-╔════════════════════════════════════╗
-║ SYSTEM STATUS                     ║
-╠════════════════════════════════════╣
-║ Name      : Jigu Akbari           ║
-║ Role      : Coder                 ║
-║ Language  : C++                   ║
-║ Mission   : DSA Mastery           ║
-║ Focus     : Arrays                ║
-║ Status    : Online                ║
-║ Commits   : Increasing...         ║
-╚════════════════════════════════════╝
-9. FUTURE ROADMAP
-LEVEL 01 ▰▰▰▰▰▰▰▰▱▱ ARRAYS
+□ Strings
+□ Pointers
+□ Structures
+□ Linked Lists
+□ Stacks
+□ Queues
+□ Trees
+□ Graphs
+```
 
-LEVEL 02 ▱▱▱▱▱▱▱▱▱▱ STRINGS
+---
 
-LEVEL 03 ▱▱▱▱▱▱▱▱▱▱ LINKED LIST
+## 📚 What I'm Working On
 
-LEVEL 04 ▱▱▱▱▱▱▱▱▱▱ TREES
+* Array Traversal
+* Array Searching
+* Array Insertion
+* Array Deletion
+* Prefix Sum
+* Two Pointers
+* Sliding Window
 
-LEVEL 05 ▱▱▱▱▱▱▱▱▱▱ GRAPHS
+---
 
-LEVEL 06 ▱▱▱▱▱▱▱▱▱▱ DP
-10. PREMIUM FOOTER
-<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
+## 🔥 Current Goal
+
+```text
+Solve 100 Array Problems
+
+Progress:
+██████░░░░░░░░░░░░
+```
+
+---
+
+## ⚡ GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+---
+
+## 🌱 Philosophy
+
+"Small improvements every day eventually become massive results."
+
+---
+
+### Current Status
+
+```bash
+$ learning --topic arrays
+
+Status      : Active
+Language    : C++
+Difficulty  : Beginner
+Consistency : Daily
+```
