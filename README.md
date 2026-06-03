@@ -1,51 +1,65 @@
-<<h1 align="center">⚡ JIGU AKBARI ⚡</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=450&color=gradient&text=JIGU%20AKBARI&fontSize=90&animation=twinkling&fontAlignY=35&desc=CODER%20•%20PROBLEM%20SOLVER%20•%20ARRAYS&descAlignY=55"/>
+2. TERMINAL BOOT SEQUENCE
+$ sudo boot developer_profile
 
+Loading skills...
+Loading projects...
+Loading commits...
+Loading future...
+
+██████████████████ 100%
+
+SYSTEM ONLINE
+3. CYBERPUNK TYPING
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=CODER;PROBLEM+SOLVER;CURRENTLY+MASTERING+ARRAYS;BUILDING+MY+FUTURE+ONE+COMMIT+AT+A+TIME" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=500&color=00F7FF&center=true&width=1000&lines=CODER;BUILDING+THE+FUTURE;CURRENTLY+MASTERING+ARRAYS;CONSISTENCY+OVER+TALENT"/>
 </p>
-> booting developer profile...
+4. MASSIVE ACTIVITY GRAPH
 
-STATUS       : ONLINE
-MODE         : CODING
-LANGUAGE     : C++
-CURRENT_FOCUS: ARRAYS
-MISSION      : BECOME ELITE
+This is where most profiles fail.
 
-SYSTEM READY...
-🌌 Hero Banner
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=JIGU%20AKBARI&animation=twinkling&fontSize=75&fontAlignY=38&desc=Coder%20%7C%20Problem%20Solver%20%7C%20Future%20Engineer&descAlignY=58&color=0:0F2027,50:203A43,100:2C5364"/>
-📊 Live Coding Dashboard
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+Make it the centerpiece.
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&height=500)
+5. GIANT STATS WALL
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true)
-🧠 Developer Matrix
-┌───────────────────────────────┐
-│ DEVELOPER MATRIX              │
-├───────────────────────────────┤
-│ C++                ████████░░ │
-│ Problem Solving    ███████░░░ │
-│ Arrays             ███████░░░ │
-│ Git                █████░░░░░ │
-│ DSA                █████░░░░░ │
-│ Competitive Prog.  ████░░░░░░ │
-└───────────────────────────────┘
-🐍 Snake Animation
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+6. ADVANCED METRICS PANEL
+
+Most people don't have this.
+
+![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=terminal)
+
+This creates a gigantic information panel.
+
+7. CONTRIBUTION SNAKE
 ![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-⚔️ Current Coding Quest
-[ACTIVE QUEST]
+8. CODER STATUS HUD
+╔════════════════════════════════════╗
+║ SYSTEM STATUS                     ║
+╠════════════════════════════════════╣
+║ Name      : Jigu Akbari           ║
+║ Role      : Coder                 ║
+║ Language  : C++                   ║
+║ Mission   : DSA Mastery           ║
+║ Focus     : Arrays                ║
+║ Status    : Online                ║
+║ Commits   : Increasing...         ║
+╚════════════════════════════════════╝
+9. FUTURE ROADMAP
+LEVEL 01 ▰▰▰▰▰▰▰▰▱▱ ARRAYS
 
-✓ Learn Array Traversal
-✓ Learn Prefix Sum
-✓ Learn Sliding Window
-□ Learn Two Pointers
-□ Learn Binary Search
+LEVEL 02 ▱▱▱▱▱▱▱▱▱▱ STRINGS
 
-Progress: 65%
-🏆 Achievement Wall
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4)
+LEVEL 03 ▱▱▱▱▱▱▱▱▱▱ LINKED LIST
 
+LEVEL 04 ▱▱▱▱▱▱▱▱▱▱ TREES
 
+LEVEL 05 ▱▱▱▱▱▱▱▱▱▱ GRAPHS
+
+LEVEL 06 ▱▱▱▱▱▱▱▱▱▱ DP
+10. PREMIUM FOOTER
+<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
